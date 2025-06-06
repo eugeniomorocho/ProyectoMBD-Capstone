@@ -8,4 +8,4 @@
 
 ### *cursiva*
 
-$\hat{y} = \sum{x}$
+$\hat{y} = \sum_i^N{x}$
