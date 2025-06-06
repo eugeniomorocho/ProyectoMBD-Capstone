@@ -8,4 +8,4 @@
 
 ### *cursiva*
 
-$\hat{y}$
+$\hat{y} = \sum{x}$
