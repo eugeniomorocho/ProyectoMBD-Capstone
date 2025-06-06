@@ -7,3 +7,5 @@
 ### **💻 Requisitos**
 
 ### *cursiva*
+
+$\hay{y}$
