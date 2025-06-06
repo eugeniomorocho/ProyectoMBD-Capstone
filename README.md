@@ -8,4 +8,4 @@
 
 ### *cursiva*
 
-$\hay{y}$
+$\hat{y}$
