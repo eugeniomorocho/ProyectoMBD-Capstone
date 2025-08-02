@@ -88,7 +88,3 @@ Al consumir el endpoint `/data`, obtendrás una respuesta JSON con los datos del
 
 - Asegúrate de que `air_passengers.csv` esté en el mismo directorio desde el que ejecutas la API.
 - Para análisis más complejos de la serie temporal (ej. predicciones), puedes integrar librerías como `statsmodels`, `prophet` o `scikit-learn`.
-
-## 🧑‍💻 Autor
-
-Desarrollado por [Tu Nombre].
